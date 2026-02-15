@@ -16,6 +16,12 @@
 
 ---
 
+## Preview Video
+
+[![Praktikum CAD CAM](https://img.youtube.com/vi/aNkUCYZvnfk/0.jpg)](https://youtu.be/aNkUCYZvnfk)
+
+---
+
 ## Dokumentasi Video
 **YouTube:**  
 [Praktikum CAD CAM](https://youtu.be/aNkUCYZvnfk?si=oNFkKt2x0fPZyz1M)
