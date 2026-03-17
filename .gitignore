@@ -1,4 +1,24 @@
 # SolidWorks temporary files
 ~$*
 *.bak
+*.tmp# --- SolidWorks Specific ---
+# File temporer saat file dibuka (~$namafile)
+~$*
+
+# File backup otomatis dan recovery
+*.bak
 *.tmp
+*.err
+*.sldedr.bak
+*.sldprt.bak
+*.sldasm.bak
+
+# File log dan laporan teknis
+*.log
+*.txt
+swxJRNL.swj
+journal.swj
+
+# File database performa
+SolidWorksPdm.db
+*.sldproc
