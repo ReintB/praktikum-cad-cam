@@ -38,16 +38,19 @@
 ### 2. Connector
 
 #### Connector Part 1
+![Connector Part 1](Images/connector-part-1.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0077 grams per cubic milimeter
+- **Mass:** 4046.8008 grams
 
 #### Connector Part 2
+![Connector Part 2](Images/connector-part-2.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0077 grams per cubic milimeter
+- **Mass:** 2824.2427 grams
 
 #### Connector Part 3
+![Connector Part 3](Images/connector-part-3.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0077 grams per cubic milimeter
+- **Mass:** 2859.1048 grams
