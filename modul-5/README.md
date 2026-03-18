@@ -21,19 +21,22 @@
 ### 1. Widget
 
 #### Widget Part 1
+![Widget Part 1](Images/widget-part-1.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 417.2552 grams
 
 #### Widget Part 2
+![Widget Part 2](Images/widget-part-2.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 231.7810 grams
 
 #### Widget Part 3
+![Widget Part 3](Images/widget-part-3.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 124.0835 grams
 
 ### 2. Connector
 
