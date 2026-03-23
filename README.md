@@ -20,7 +20,6 @@ Repositori ini berisi kumpulan hasil praktikum mata kuliah **CAD-CAM** (Computer
 ---
 
 ## Daftar Modul Praktikum
-https://youtu.be/LdQlrx7SZQo
 
 | No | Modul | Link Video |
 | :--: | :--- | :--- |
