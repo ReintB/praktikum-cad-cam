@@ -27,6 +27,7 @@ Repositori ini berisi kumpulan hasil praktikum mata kuliah **CAD-CAM** (Computer
 | 2 | [Modul 2](./modul-2) | [YouTube](https://youtu.be/zwm6A1GRiRM?si=xxFgqTYigRYQdUct) |
 | 3 | [Modul 3](./modul-3) | [YouTube](https://youtu.be/kvZRVZC3ryg?si=qhp64mI7rK8mratI) |
 | 4 | [Modul 4](./modul-4) | [YouTube](https://youtu.be/Yiryyb16X1Y?si=OL8uhmXeGZ34Hh8w) |
-| 5 | [Modul 5](./modul-5) | - |
+| 5 | [Modul 5](./modul-5) | [YouTube](https://youtu.be/LdQlrx7SZQo) |
+| 6 | [Modul 6](./modul-6) | - |
 
 ---
