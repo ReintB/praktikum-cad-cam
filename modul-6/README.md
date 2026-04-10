@@ -34,15 +34,11 @@
 
 ### 2. Cylinder Jig
 
-#### Cylinder Jig Part 1
+#### Cylinder Jig
+![Tooling Cylinder Part 1](Images/cyclinder-jig-part-1.png)
 
-- **Density:** xxx
-- **Mass:** xxx
-
-#### Cylinder Jig Part 2
-
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 1004.8827 grams
 
 ### 3. Tooling Cylinder
 
