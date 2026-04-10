@@ -21,9 +21,10 @@
 ### 1. Hydrolic Cylinder Half
 
 #### Hydrolic Cylinder Half Part 1
+![Cylinder Half Part 1 Part 1](Images/cyclinder-half-part-1.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0027 grams per cubic milimeter
+- **Mass:** 5409.15 grams
 
 #### Hydrolic Cylinder Half Part 2
 
@@ -45,16 +46,19 @@
 ### 3. Tooling Cylinder
 
 #### Tooling Cylinder Part 1
+![Tooling Cylinder Part 1](Images/tooling-cyclinder-part-1.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0079 grams per cubic milimeter
+- **Mass:** 3207.3677 grams
 
 #### Tooling Cylinder Part 2
+![Tooling Cylinder Part 2](Images/tooling-cyclinder-part-2.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0079 grams per cubic milimeter
+- **Mass:** 2798.7133 grams
 
 #### Tooling Cylinder Part 3
+![Tooling Cylinder Part 3](Images/tooling-cyclinder-part-3.png)
 
-- **Density:** xxx
-- **Mass:** xxx
+- **Density:** 0.0079 grams per cubic milimeter
+- **Mass:** 2747.8727 grams
